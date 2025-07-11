@@ -10,7 +10,7 @@ A complete **CRUD (Create, Read, Update, Delete)** application built using **Jav
 - 🖼️ Upload and display product images
 - 📱 Mobile-responsive layout using Bootstrap
 - ⚡ Instant development with Spring Boot DevTools
-- 💾 Store product data in **H2 or MySQL**
+- 💾 Store product data in **MySQL**
 - 🧠 Learning-friendly project for beginners
 
 ---
@@ -35,10 +35,12 @@ A complete **CRUD (Create, Read, Update, Delete)** application built using **Jav
 ### 📱 Product List (Mobile UI)
 <img src="screenshots/addproductwindos.png" width="400" alt="Add Product Form" />
 
-### 📝 Add/Edit Product Form
-<img src="screenshots/allproducts.png" width="400" alt="Product List" />
+<img src="screenshots/addproduct.png" width="300" alt="Product List" />
 
-<img src="screenshots/allproducts.png" width="400" alt="Product List" />
+### 📝 Add/Edit Product Form
+<img src="screenshots/allproducts.png" width="300" alt="Product List" />
+
+
 
 ---
 
@@ -49,3 +51,24 @@ A complete **CRUD (Create, Read, Update, Delete)** application built using **Jav
 ```bash
 git clone https://github.com/sudhir0603/springboot-crud-image.git
 cd springboot-crud-image
+
+
+```
+### 📚 What I Learned
+💡 How to build full CRUD in Spring Boot
+
+💡 Handling file uploads with MultipartFile
+
+💡 Using Thymeleaf with Bootstrap for responsive design
+
+💡 Serving images dynamically
+
+💡 Structuring a real-world Java application
+
+💡 Making mobile-friendly UIs with Bootstrap
+
+
+### 💻 Author
+Made with ❤️ by Sudhir Kamble
+
+Feel free to ⭐️ the repo or contribute.
