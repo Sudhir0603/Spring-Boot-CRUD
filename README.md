@@ -33,10 +33,12 @@ A complete **CRUD (Create, Read, Update, Delete)** application built using **Jav
 ## 📷 Screenshots
 
 ### 📱 Product List (Mobile UI)
-![Product List](screenshots/addproductwindos.png)
+<img src="screenshots/addproductwindos.png" width="400" alt="Add Product Form" />
 
 ### 📝 Add/Edit Product Form
-![Product Form](screenshots/allproducts.png)
+<img src="screenshots/allproducts.png" width="400" alt="Product List" />
+
+<img src="screenshots/allproducts.png" width="400" alt="Product List" />
 
 ---
 
@@ -45,5 +47,5 @@ A complete **CRUD (Create, Read, Update, Delete)** application built using **Jav
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/springboot-crud-image.git
+git clone https://github.com/sudhir0603/springboot-crud-image.git
 cd springboot-crud-image
